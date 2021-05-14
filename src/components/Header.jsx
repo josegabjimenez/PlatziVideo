@@ -3,7 +3,7 @@ import React from 'react';
 const Header = () => {
     return ( 
         <header className="header">
-        <img className="header__img" src="../assets/logo-platzi-video-BW2.png" alt="Platzi Video"/>
+        <img className="header__img" src="../assets/logo-platzi-video-BW2.png" alt="Nutzi Video Platform"/>
         <div className="header__menu">
           <div className="header__menu--profile">
             <img src="../assets/user-icon.png" alt=""/>
