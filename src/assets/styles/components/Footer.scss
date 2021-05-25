@@ -1,0 +1,23 @@
+@import "../Vars.scss";
+
+.footer {
+  align-items: center;
+  background-color: $secondColor;
+  display: flex;
+  height: 100px;
+  width: 100%;
+}
+
+.footer a {
+  color: white; 
+  cursor: pointer;
+  font-size: 16px;
+  padding-left: 30px;
+  text-decoration: none;
+  transition: all 0.3s;
+}
+
+.footer a:hover {
+  color: black;
+  //text-decoration: underline;
+}
